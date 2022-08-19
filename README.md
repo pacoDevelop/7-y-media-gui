@@ -151,7 +151,8 @@ Este es un ejemplo de cómo enumerar las cosas que necesita para usar el softwar
  - [x] Corregidos fallos de puntuacion
  - [x] Ahora saca el mensaje en una ventana
  - [x] Imprimir por pantalla si pierdes cuando pasas de 7,5 o ganas al llegar a 7,5
-
+ - [ ] Multijugador
+ 
 Consulte los [open issues](https://github.com/pacoDevelop/7-y-media-gui/issues) para obtener una lista completa de las características propuestas (y los problemas conocidos).
 <p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
 
