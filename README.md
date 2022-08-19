@@ -148,7 +148,7 @@ Este es un ejemplo de cómo enumerar las cosas que necesita para usar el softwar
  - [x] Depurado de código
  - [x] Creada clase App para poder seguir actualizando el juego sin afectar a sus funciones
  - [x] Solucionados bugs al repartir cartas
- - [x] Corregidos fallos de puntuacion
+ - [x] Corregidos fallos de puntuación
  - [x] Ahora saca el mensaje en una ventana
  - [x] Imprimir por pantalla si pierdes cuando pasas de 7,5 o ganas al llegar a 7,5
  - [ ] Multijugador
