@@ -67,11 +67,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <div align="center">
-<img src="images_readme/juego1.png" alt="Juego" width="200" height="260">
-<br /><br />
-<img src="images_readme/juego2.png" alt="Juego" width="200" height="260">
-<br /><br />
-<img src="images_readme/juego3.png" alt="Juego" width="200" height="260">
+<img src="images_readme/juego1.png" alt="Juego" width="260" height="260">
+
+<img src="images_readme/juego3.png" alt="Juego" width="260" height="260">
+	
+<img src="images_readme/juego2.png" alt="Juego" width="260" height="260">
 <br /><br />
 
 Este juego fue elaborado en la materia de Entornos de Desarrollo en el curso de Desarrollo de aplicaciones multiplataforma 2018-2019. Consta de un juego simple de cartas, en el cual tenemos que llegar a 7 y medio(los medios son las figuras) sin pasarse, en 2D con baraja Española.
