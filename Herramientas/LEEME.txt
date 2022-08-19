@@ -1,0 +1,4 @@
+Url de descargas, antes comprueba que esta disponible la web
+http://www.consultacartas.com/imagenes/baraja_espanola/espadas_1.jpg
+ejecute test.bat para comprobar que la web esta activa
+Ejectuar buildCards.bat
